@@ -19,3 +19,6 @@ c:\users\kevnixs\documents\visual studio 2015\Projects\SCS Project\ApplicationMa
 c:\users\kevnixs\documents\visual studio 2015\Projects\SCS Project\ApplicationManager\bin\Debug\MetroFramework.pdb
 c:\users\kevnixs\documents\visual studio 2015\Projects\SCS Project\ApplicationManager\bin\Debug\Security.exe
 c:\users\kevnixs\documents\visual studio 2015\Projects\SCS Project\ApplicationManager\bin\Debug\Security.pdb
+C:\Users\Kevnixs\Documents\SCS\ApplicationManager\bin\Debug\ApplicationManager.exe.config
+C:\Users\Kevnixs\Documents\SCS\ApplicationManager\obj\Debug\ApplicationManager.exe
+C:\Users\Kevnixs\Documents\SCS\ApplicationManager\obj\Debug\ApplicationManager.pdb
